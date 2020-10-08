@@ -20,3 +20,13 @@ Your portfolio should include:
 You may refer to [this example](https://wyncode.github.io/all_about_me/index.html) and [this GitHub repo](https://github.com/wyncode/all_about_me/settings/access) to help you get started.
 
 Do not use any portfolio template generators for this assignment.
+
+##Instructions for Creating and Submitting Your Portfolio
+
+- Clone this repository
+- Assign yourself a GitHub issue to create your portfolio
+- Create a branch following appropriate branch naming conventions
+- Checkout to your branch
+- Open the project in VS Code
+- Save, add, commit, and push your changes to your branch as you work
+- Submit a Pull Request with your completed portfolio by **12PM on Friday, October 16**
