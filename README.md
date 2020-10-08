@@ -1,8 +1,8 @@
-#Final Project: Build Your Own Portfolio
+# Final Project: Build Your Own Portfolio
 
 As a developer it is important to have a place to refer people to in order to view your contact information as well as some of the current and past projects your either working on or have worked on. Building a portfolio website is a good way for you to get practice with HTML, CSS, and JavaScript. It’s important to remember this is the website that future employers will be looking at to get a snapshot at your professional background and your code.
 
-##Rubric
+## Rubric
 
 Your portfolio should include:
 
@@ -21,7 +21,7 @@ You may refer to [this example](https://wyncode.github.io/all_about_me/index.htm
 
 Do not use any portfolio template generators for this assignment.
 
-##Instructions for Creating and Submitting Your Portfolio
+## Instructions for Creating and Submitting Your Portfolio
 
 - Clone this repository
 - Assign yourself a GitHub issue to create your portfolio
