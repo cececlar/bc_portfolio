@@ -13,7 +13,7 @@ Your portfolio should include:
 - [ ] A navigation bar that links to the different sections of your portfolio (you may include all of the sections in the same `index.html` file, or you may link to a different HTML file for each section of your portfolio)
 - [ ] A footer with links to your GitHub and LinkedIn
 - [ ] Attractive styling (you may write your own CSS and/or optionally use the [Bootstrap](https://getbootstrap.com/) library to assist you)
-- [ ] Responsive CSS that looks good across all devices and browser sizes (this can be accomplished using a variety of techniques, including relative units of measure, media queries, flexbox, and/or)
+- [ ] Responsive CSS that looks good across all devices and browser sizes (this can be accomplished using a variety of techniques, including relative units of measure, media queries, flexbox, and/or grid)
 - [ ] Well organized, properly formatted code, (appropriate nesting of HTML elements and CSS rule sets)
 - [ ] When run through [this HTML validator](https://validator.w3.org/#validate_by_input), your HTML should not result in any warnings or errors. When run through [this CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input), your CSS should not result in any warnings or errors.
 
